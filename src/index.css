@@ -1,0 +1,9 @@
+.page {
+  background-color: red;
+}
+
+.header {
+  height: 60px;
+  position: fixed;
+  line-height: 60px;
+}
